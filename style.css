@@ -5,7 +5,7 @@
 }
 
 body {
-    background: #eee;
+    /* background:#eee; */
 }
 
 .main_container {
@@ -59,6 +59,7 @@ button {
     border: 1px groove rgb(75, 69, 69);
 }
 
+
 .grey_numbers {
     display: flex;
     flex-wrap: wrap;
@@ -69,13 +70,13 @@ button {
     background: #939090;
 }
 
-.orange_numbers {
+.orange_operators {
     display: flex;
     flex-direction: column;
        
 }
 
-.orange_numbers button {
+.orange_operators button {
     background:#FF9500;
 }
 
